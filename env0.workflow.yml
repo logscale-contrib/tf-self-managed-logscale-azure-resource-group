@@ -1,0 +1,4 @@
+environments:
+  rg:
+    name: "Azure-resource-group"
+    templateName: "aws-rg"
